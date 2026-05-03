@@ -60,7 +60,7 @@ Funcionalidades implementadas:
 
 ## 🧪 Testes
 
-O projeto conta com testes unitários utilizando:
+O projeto conta com testes unitários para validação, utilizando:
 
 * xUnit
 * Moq
